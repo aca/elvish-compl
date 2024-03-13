@@ -15,3 +15,4 @@ fn conv {|@words|
 fn apply {|command|
     set edit:completion:arg-completer[$command] = $conv~
 } 
+

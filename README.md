@@ -30,3 +30,11 @@ apply | Apply a patch on a git index file and a working tree
 archive | Create an archive of files from a named tree
 bisect | Find the change that introduced a bug by binary search
 ```
+
+#### fish-completer-apply-all
+
+For the lazy people, just convert all fish completions on source [completions](https://github.com/fish-shell/fish-shell/tree/master/share/completions)
+
+```
+use github.com/aca/elvish-compl/fish-completer-apply-all
+```
